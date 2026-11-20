@@ -1,5 +1,8 @@
 # THE WORLD TODAY — Friday 20 November 2026
 
+[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261120-blue)](https://make.fun/bounty/news-image-20261120)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A one-page newspaper front page summing up the world's news of
 Friday 20 November 2026, built for the make.fun competition
 `news-image-20261120`.
